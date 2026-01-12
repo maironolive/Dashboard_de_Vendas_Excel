@@ -27,18 +27,18 @@ Durante o desenvolvimento do dashboard, foram aplicadas diversas boas práticas,
 
 ## 📁 Estrutura do Arquivo Excel
 
-O arquivo Excel está organizado da seguinte forma:
+### O arquivo Excel está organizado da seguinte forma:
 - Base de Dados
 - Contém os dados brutos utilizados para análise, sem tratamento visual.
 - Cálculos / Apoio
 - Planilhas com fórmulas, tabelas dinâmicas e consolidações necessárias para alimentar o dashboard.
 - Assets
-Recursos auxiliares como:
+### Recursos auxiliares como:
 - Paleta de cores
 - Ícones
 - Listas de apoio (validações, legendas, etc.)
 - Dashboard
-Área final de visualização, contendo:
+### Área final de visualização, contendo:
 - Indicadores principais (KPIs)
 - Gráficos
 - Filtros interativos
