@@ -16,14 +16,14 @@ Durante o desenvolvimento do dashboard, foram aplicadas diversas boas práticas,
 - ✅ Uso de planilhas auxiliares (assets) para padronização
 - ✅ Criação de planilha de base de dados sem alterações manuais
 - ✅ Uso de planilhas de cálculos com:
--- Fórmulas
--- Tabelas dinâmicas
+- Fórmulas
+- Tabelas dinâmicas
 
 - ✅ Construção do dashboard com foco em storytelling, considerando:
--- Contexto do negócio
--- Padrão de cores consistente
--- Tipos de gráficos adequados
--- Indicadores-chave (Big Numbers / KPIs)
+- Contexto do negócio
+- Padrão de cores consistente
+- Tipos de gráficos adequados
+- Indicadores-chave (Big Numbers / KPIs)
 
 ## 📁 Estrutura do Arquivo Excel
 
